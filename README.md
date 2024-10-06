@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** Python **
 
-- 👨‍💻 All of my projects are available at https://github.com/S/My_Projects
+- 👨‍💻 All of my projects are available at https://github.com/NagurDiwakar
 
 - 💬 Ask me about **AWS,Devops**
 
