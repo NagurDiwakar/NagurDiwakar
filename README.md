@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AWS and Devops Project**
 
-- 🌱 I’m currently learning ** Python **
+- 🌱 I’m currently learning ** some stuff which i didnt know yet **
 
 - 👨‍💻 All of my projects are available at https://github.com/NagurDiwakar
 
