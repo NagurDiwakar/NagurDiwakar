@@ -1,4 +1,4 @@
-![MasterHead](https://static.learnk8s.io/ce26d407ce85d5c042eb6ed6079b27d7.png)
+<img src="https://static.learnk8s.io/ce26d407ce85d5c042eb6ed6079b27d7.png" width="500">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NagurDiwakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagurdiwakar97@gmail.com) 
